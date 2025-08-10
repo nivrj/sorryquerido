@@ -63,9 +63,6 @@ button:hover,
 
 .surpresa {
   background: linear-gradient(135deg, #ffe4f0, #ffd6ec);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
 }
 
 .surpresa-text {
@@ -83,4 +80,5 @@ button:hover,
   .surpresa-text {
     font-size: 1.2rem;
   }
+
 }
